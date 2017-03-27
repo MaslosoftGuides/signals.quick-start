@@ -1,0 +1,20 @@
+# [Signals Quick Start](https://dev.maslosoft.com/signals/docs/)
+[Signals Quick Start Guide Repository](https://dev.maslosoft.com/signals/docs/)
+
+To initialize this example run:
+
+```
+composer install
+```
+
+Optionally to re-generate signal, use:
+
+```
+vendor/bin/signals build
+```
+
+To see results execute:
+
+```
+php signals.php
+```
